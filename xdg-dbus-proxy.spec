@@ -4,7 +4,7 @@
 #
 Name     : xdg-dbus-proxy
 Version  : 0.1.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/flatpak/xdg-dbus-proxy/releases/download/0.1.2/xdg-dbus-proxy-0.1.2.tar.xz
 Source0  : https://github.com/flatpak/xdg-dbus-proxy/releases/download/0.1.2/xdg-dbus-proxy-0.1.2.tar.xz
 Summary  : D-Bus proxy
