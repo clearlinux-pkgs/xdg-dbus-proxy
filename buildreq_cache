@@ -1,3 +1,5 @@
-0.1.5
+0.1.6
 docbook-xml
+glib-dev
 libxslt-bin
+pkgconfig(glib-2.0)
